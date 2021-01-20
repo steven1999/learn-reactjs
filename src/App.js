@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn Reactjs 2021
+          Learn Reactjs Nextjs 2021
         </a>
       </header>
     </div>
